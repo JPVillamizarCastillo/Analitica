@@ -1,0 +1,4 @@
+# Analitica
+Se realiza un analisis de mercado en donde se conocieron diferentes variables de las personas, tales como "Nombre, Edad, Genero, Ciudad de Residencia, Ocupación, Ingreso Mensual, Estrato, Gastos Significativos y posibilidad de adquirir un crédito" con el objeto de poder conocer de este segmento del mercado, los clientes potenciales que el banco deba tener y al mismo tiempo poder predecir el salario de los prospectos a los que no se les pudo recolectar información.
+
+Entre la información, en terminos generales pudimos encontrar perfiles entre los 19 a los 70 años, que poseen unos ingresos promedio entre los 500.000COP hasta los 10´000.000COP, con un diferente compedio de estratos y ciudades a nivel nacional, que nos permiten tener información de los diferentes perfiles que se encuentran en el mercado.
